@@ -1,2 +1,2 @@
 # journey
-This is my Second Git Repository.
+This is my second Git Repository.
